@@ -1,0 +1,12 @@
+body {
+  color: white;
+  background: black;
+  text-align: center;
+  font-size: 2em;
+
+}
+
+header {
+  padding-top: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
